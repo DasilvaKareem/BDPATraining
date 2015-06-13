@@ -1,7 +1,7 @@
 <?php
 
 	$userInput = $_POST['userInput']; //Takes the name of userInput in the form 
-	$myName = "" //Enter your name
+	$myName = "" ;//Enter your name
 	function checksName() {
 		if ($userInput == $myName) {
 			echo "My name is ". $userInput;

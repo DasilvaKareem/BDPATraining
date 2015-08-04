@@ -5,6 +5,6 @@
 	<body>
 		<form action="postEx1.php" method="POST">
 		</form>
-		<h1>Enter your name:</h1><input type="text" name="userInput">
+		<h1>Enter your name:</h1><input type="text" name="userInputs">
 	</body>
 </html>
